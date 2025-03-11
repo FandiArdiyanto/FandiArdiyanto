@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hi, I'm Fandi Ardiyanto!  
 
-<!--
-**FandiArdiyanto/FandiArdiyanto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me  
+- 🎓 Informatics student (4th semester)  
+- 💻 Passionate about **Web Programming**  
+- 🎵 Love **singing** and **listening to music**  
+- 📚 Always eager to learn new things in tech  
 
-Here are some ideas to get you started:
+## 🌱 Currently Learning  
+- **HTML & CSS** for building responsive and modern web pages  
+- Improving problem-solving skills in coding  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔨 Projects & Work  
+- Building personal website  
+- Exploring new technologies in web development    
+
+## 📫 Let's Connect!  
+Feel free to check out my repositories and connect with me. Always be open to learning from others!
